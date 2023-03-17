@@ -1,0 +1,13 @@
+//{
+//  "confirm":false,
+//  "syn":427399374260142081,
+//  "ack":0
+//}
+
+{
+  "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQbGF0Zm9ybUlkIjoibmV3LTAwMDEiLCJQbGF0Zm9ybVVzZXJJZCI6ImczYXdnYXdnYXNkZzMyIiwiUGxhdGZvcm1Vc2VyTmFtZSI6IuWkp-eOi0EzYWJjIiwiZXhwIjoxNjk1NzYzMjM5LCJpYXQiOjE2NjQyMDYyODcsImlzcyI6Im5ldy0wMDAxIn0.ShMgMWHu2ZC1HPhwKRtkMJaX2Q6IE9HOypOdRy0RpVU",
+  "PaymentTerm":{
+    "payment_term_id":5145145,
+    "payment_term":"\u652f\u4ed8\u5b9d\u4f60\u8981\u4e0d\u8981\u561b",
+  },
+}
